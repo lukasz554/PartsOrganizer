@@ -1,0 +1,23 @@
+#grCategories Button {
+    -fx-background-color: #946;
+    -fx-font-size: 50px;
+}
+
+#drawerPane Button {
+    -fx-background-color: violet;
+    -fx-font-size: 22px;
+    -fx-border-color: white;
+
+}
+
+.button:hover{
+    -fx-background-color: #6d3;
+}
+.text-field.error{
+    -fx-border-color: red;
+}
+
+.table-view .table-column{
+    -fx-alignment:center;
+}
+
